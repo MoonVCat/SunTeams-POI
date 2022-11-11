@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493528326676",
+    "project_id": "proyecto-39cd6",
+    "storage_bucket": "proyecto-39cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493528326676:android:a743406e1d4d2b09bb7d01",
+        "android_client_info": {
+          "package_name": "com.poi.loginregistro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493528326676-obfsgk1hcrkrsvp9j1nkjm6ve1l2uot2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmoxgMORkmzIWmcdGYCn3ek96dhNSLb1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493528326676-obfsgk1hcrkrsvp9j1nkjm6ve1l2uot2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

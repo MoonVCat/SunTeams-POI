@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/drawable/ic_circle_state.xml" value="0.1" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/drawable/ic_circle_state_active.xml" value="0.2635897435897436" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/drawable/ic_close.xml" value="0.13055555555555556" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/drawable/round.xml" value="0.21" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/drawable/rounded_corner.xml" value="0.3828125" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/drawable/rounded_photo.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/drawable/switch_thumb.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/drawable/switch_track.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_chat_group.xml" value="0.33" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_chat_log2.xml" value="0.3324175824175824" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_crear_tasks.xml" value="0.30363036303630364" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_create_group.xml" value="0.25" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_deliver_task.xml" value="0.33" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_group.xml" value="0.33" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_group_create.xml" value="0.1" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_latest_messages.xml" value="0.33" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_message_chat.xml" value="0.18" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_message_image.xml" value="0.25" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_new_message.xml" value="0.33" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_send_email.xml" value="0.5" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/activity_settings.xml" value="0.33" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/agregar_archivo.xml" value="0.22" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/chat_from_row.xml" value="0.30303030303030304" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/chat_to_row.xml" value="0.33" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/contact_select_recycler.xml" value="0.5086042065009561" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/content_group.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/fragment_assigned_tasks.xml" value="0.33" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/fragment_completed_task.xml" value="0.22" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/fragment_first.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/fragment_group_fragment.xml" value="0.32303370786516855" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/fragment_mensajes_priv.xml" value="0.25" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/fragment_tasks.xml" value="0.22" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/group_from_row.xml" value="0.75" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/group_to_row.xml" value="0.75" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/latest_message.xml" value="0.38181818181818183" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/list_item.xml" value="0.22" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/list_item_status.xml" value="0.2859375" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/lista_salon.xml" value="0.75" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/message_from_group.xml" value="0.75" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/message_group.xml" value="0.67" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/tarea_recycler.xml" value="0.38177874186550975" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/team_names_select.xml" value="0.1" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/layout/user_row_new_message.xml" value="0.5" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/menu/nav_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Monica/Desktop/Facu_Monica/8vo_semestre/Programacion_Orientada_a_la_Internet/loginRegistro/app/src/main/res/menu/salir_menu.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
